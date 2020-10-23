@@ -3,7 +3,7 @@
         "name" : "ptools-uploadcounter",
         "title" : "Upload Counter",
         "description" : "An upload counter for Commons (Number of files, distribution of uploads in time and type).",
-        "url" : "http://tools.wmflabs.org/ptools/uploadsum.php",
+        "url" : "https://ptools.toolforge.org/uploadsum.php",
         "keywords" : "commons, counter",
         "author" : "Pleclown",
         "repository" : "https://github.com/Pleclown/Commons-Tools.git"
@@ -12,7 +12,7 @@
         "name" : "ptools-findfiles",
         "title" : "Commons files finder",
         "description" : "Find files by a user in a Commons category (or files by a user not in a Commons category).",
-        "url" : "http://tools.wmflabs.org/ptools/findfiles.php",
+        "url" : "https://ptools.toolforge.org/findfiles.php",
         "keywords" : "Commons, files, category",
         "author" : "Pleclown",
         "repository" : "https://github.com/Pleclown/Commons-Tools.git"
@@ -21,7 +21,7 @@
         "name" : "ptools-uploadersincat",
         "title" : "Commons Uploaders in cat",
         "description" : "List uploaders and number of files by uploader in a Commons category.",
-        "url" : "http://tools.wmflabs.org/ptools/uploadersincat.php",
+        "url" : "https://ptools.toolforge.org/uploadersincat.php",
         "keywords" : "Commons, files, uploaders, category",
         "author" : "Pleclown",
         "repository" : "https://github.com/Pleclown/Commons-Tools.git"
@@ -30,7 +30,7 @@
         "name" : "ptools-filesincat",
         "title" : "Commons files in cat",
         "description" : "Displays informations on a Commons category.",
-        "url" : "https://tools.wmflabs.org/ptools/filesincat.php",
+        "url" : "https://ptools.toolforge.org/filesincat.php",
         "keywords" : "Commons, files, category",
         "author" : "Pleclown",
         "repository" : "https://github.com/Pleclown/Commons-Tools.git"
@@ -39,7 +39,7 @@
         "name" : "ptools-useractions",
         "title" : "Useractions",
         "description" : "An action (as defined in MediaWiki) counter.",
-        "url" : "http://tools.wmflabs.org/ptools/useractions.php",
+        "url" : "https://ptools.toolforge.org/useractions.php",
         "keywords" : "actions, counter",
         "author" : "Pleclown",
         "repository" : "https://github.com/Pleclown/Commons-Tools.git"
@@ -48,7 +48,7 @@
         "name" : "ptools-intertwined",
         "title" : "Intertwined contributions",
         "description" : "Displays the last 1000 cumulated contributions of two users on a wiki.",
-        "url" : "http://tools.wmflabs.org/ptools/intertwined.php",
+        "url" : "https://ptools.toolforge.org/intertwined.php",
         "keywords" : "users",
         "author" : "Pleclown",
         "repository" : "https://github.com/Pleclown/Commons-Tools.git"
