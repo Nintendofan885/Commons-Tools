@@ -22,7 +22,7 @@ $user2='';
 $metadb = new metadatabase;
 ?>
 <fieldset><legend>Intertwined contributions</legend>
-This tool displays the last 1000 cumulated contributions of the two users. If you want to see all the pages edited by both users, see <a href='//tools.wmflabs.org/intersect-contribs/' title='Intersect contribs'>Intersect contribs</a> by Pietrodn.
+This tool displays the last 1000 cumulated contributions of the two users. If you want to see all the pages edited by both users, see <a href='https://intersect-contribs.toolforge.org/' title='Intersect contribs'>Intersect contribs</a> by Pietrodn.
 </fieldset>
 <fieldset><legend>Users</legend>
 <form method="get" action="intertwined.php" id="mw-sulinfo-form1">
