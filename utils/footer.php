@@ -7,7 +7,7 @@
 	width:120px;" href="/ptools/" title="Main Page" ></a></div>
 <div class='portlet' id='p-navigation'><h5 style="-moz-border-radius-topright: 10px;">Navigation</h5><div class='pBody'>
 <ul>
-<li><a href="/">Wikimedia Tool Labs</a></li>
+<li><a href="/">Wikimedia Toolforge</a></li>
 <li><a href="/ptools/">Main Page</a></li>
 <li><a href="/hay/directory">Tools directory</a></li>
 </ul>
@@ -30,6 +30,6 @@
 </ul>
 </div></div>
 <div class='portlet' id='p-report-bug'><h5 style="-moz-border-radius-topright: 10px;">Report a bug</h5><div class='pBody'>
-Feel free to report a bug or to suggest a change on <a href="http://meta.wikimedia.org/wiki/User talk:Pleclown">my user talk page</a> !
+Feel free to report a bug or to suggest a change on <a href="https://meta.wikimedia.org/wiki/User talk:Pleclown">my user talk page</a> !
 </div></div>
 </div></div></body></html>
